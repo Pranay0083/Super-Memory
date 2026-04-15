@@ -1,4 +1,5 @@
-# 👑 Keith - The Autonomous Developer Companion
+# 👑 Keith - The Autonomous Developer Companion  
+[here is the updated repository](https://github.com/Pranay0083/Keith)
 
 **Keith** is a hyper-agentic, 24/7 terminal-native AI engineer. Built completely from the ground up to orchestrate complex RAG (Retrieval-Augmented Generation), control native macOS hardware, and write code entirely autonomously alongside you.
 
